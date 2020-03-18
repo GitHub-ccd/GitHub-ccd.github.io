@@ -1,11 +1,11 @@
 # Site settings
-author: chamila dharmawardhana
-title: 
+author: Chamila Dharmawardhana
+title: Data Science begins
 header-img: img/home-bg.png
 email: ccdxz8@mail.umkc.edu
-copyright_name: chamila dharmawardhana
+copyright_name: Chamila Dharmawardhana
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron bootcamp projects
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  GitHub-ccd
