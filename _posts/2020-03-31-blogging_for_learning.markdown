@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Blogging for learning"
-date:       2020-03-31 13:36:22 +0000
+title:      "A journey begins on a lockdown"
+date:       2020-03-31 09:36:22 -0400
 permalink:  blogging_for_learning
 ---
 
