@@ -6,7 +6,10 @@ permalink:  blogging_for_learning
 ---
 
 
+
 It seems the whole world is in lockdown mode as I start my journey to become a data scientist. Actually, I have started few weeks ago, but my first assignment is to write a blog. In doing research for this task I came to realize the power of blogging. For example, I had no idea for some it is the main source of income and other boosting their own ego and for great many an outlet for creative energy. For me, although is a requirement I'd like to believe this may turn out to be a source of positive energy and outlet for creativity.
+
+![](https://github.com/GitHub-ccd/dsc-mod-1-project-v2-1-onl01-dtsc-ft-030220/blob/master/CMA-Exam-Dates-4.png)
 
 Of all the blogs I reviewed to answer the question……….
 
