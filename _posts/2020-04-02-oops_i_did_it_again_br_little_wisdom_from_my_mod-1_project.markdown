@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Oops I did it again…. <br>Little wisdom from my MOD-1 project"
-date:       2020-04-02 08:04:35 +0000
+date:       2020-04-02 04:04:36 -0400
 permalink:  oops_i_did_it_again_br_little_wisdom_from_my_mod-1_project
 ---
 
@@ -42,5 +42,8 @@ As all my fellow classmates know the data files provided for the project was so 
 5.	Seaborn is great! Plotly is better
 I was very excited to get to learn and practice Seaborn plots as I’ve seen many examples of great looking professional quality plots. But, after sitting in for Rafael’s special topics study group I was blown away. It wasn’t just the plotting either. It was inspiring to see him search for specific issues online and the choices he made to get to a reasonable solution faster. After that I’ve re-did all my figures in my project to Plotly. It was worth it. The dynamic features as well as clarity is quite amazing. 
 
-
+Here is no non-technical presentation
+<div>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/AnV2Wh5YAY8" width="560"></iframe>
+</div>
 
