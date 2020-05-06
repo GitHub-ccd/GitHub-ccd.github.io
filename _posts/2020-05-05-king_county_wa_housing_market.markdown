@@ -20,4 +20,4 @@ permalink:  king_county_wa_housing_market
                         <li><a href="#"> <i class="fa fa-google-plus"></i> </a></li>
                     </ul>
                 </div>
-								</div>
+ </div>
