@@ -1,15 +1,12 @@
 ---
 layout: post
 title:      "King County WA housing market"
-date:       2020-05-06 01:46:39 +0000
+date:       2020-05-05 21:46:40 -0400
 permalink:  king_county_wa_housing_market
 ---
 
 
-    <!-- about me area -->
-    <div class="about_me">
-        <div class="container">
-            <div class="row align-items-center">
+  <div class="row align-items-center">
                 <h3>Housing market of King County Washington</h3>
                 <p>
                     Hi I'm Chamila. Here is my project about the King county housing data and multi linear regression 
@@ -23,7 +20,4 @@ permalink:  king_county_wa_housing_market
                         <li><a href="#"> <i class="fa fa-google-plus"></i> </a></li>
                     </ul>
                 </div>
-            </div>
-        </div>
-    </div>
-    <!-- about me arean -->
+								</div>
