@@ -5,7 +5,7 @@ date:       2020-05-05 21:46:40 -0400
 permalink:  king_county_wa_housing_market
 ---
 
-1.  What features are given in the dataset
+1. ***What features are given in the dataset***
 Before start modeling it's important to research about the features given in the dataset and what they mean. I've found a list of features and explaination given for the king county dataset. Those are given below. 
 
 
@@ -38,4 +38,32 @@ Before start modeling it's important to research about the features given in the
 
 
 
-2.  zzz
+2. ***Cleaning data***
+There data were relatively clean. yr_renovated column had to be dropped because 78% of the data was missing. Missing data of couple of other columns were replaced by median or zero. One column had a tag '?', probably to indicate that the data is missing. This was readily identified when trying to plot the data. For numerical features this maybe a good method to check for data inconsitancies. 
+
+Initially, distribution of the 'Price', which is the target feature were checked. It appeared less than 1% of the houses were more than $2,000,000. Thus, it was decided to remove those data that has extremely high price houses to reduce the complexcity of the dataset.  
+
+Then all the features were checked individually for outliers. Outliers were found on bedrooms column. Histograms and seborn joint plots are excellent to check distributions of all reafures rather quickly. Following is the code for jointplots. 
+```
+tmp_df=df.drop(['id', 'date'], axis=1)
+headers=tmp_df.columns
+
+#once again just iterating through our list of columns so that we get each separate plot
+for column in headers:
+    sns.jointplot(x=column, y="price", 
+                  data=tmp_df, #
+                  kind='reg', 
+                  label=column, 
+                  joint_kws={'line_kws':{'color':'blue'}}) #stylistic choices
+
+    plt.legend() #including a legend for our plots
+    
+    plt.show()
+```
+
+
+
+3.  ***Exploring features and modeling***
+
+4.  ***Feature selection and model validation***
+5.  ***Model analysis and drawing conclusions***
