@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Telco Customer Churn modeling"
-date:       2020-06-03 20:05:54 +0000
+date:       2020-06-03 16:05:54 -0400
 permalink:  telco_customer_churn_modeling
 ---
 
@@ -32,7 +32,7 @@ The data guidelines for either option are shown below
 For this project, you're going to select a dataset of your choosing and create a classification model. You'll start by identifying a problem you can solve with classification, and then identify a dataset. You'll then use everything you've learned about Data Science and Machine Learning thus far to source a dataset, preprocess and explore it, and then build and interpret a classification model that answers your chosen question.
 
 ## Methodology and code origanization
-![](https://raw.githubusercontent.com/GitHub-ccd/dsc-mod-3-project-v2-1-onl01-dtsc-ft-030220/master/img/osemn.png)
+##![](https://raw.githubusercontent.com/GitHub-ccd/dsc-mod-3-project-v2-1-onl01-dtsc-ft-030220/master/img/osemn.png)
 1. **1-Obtain.ipynb**: Data loading and initial visualization and exploration of target. outliers. 
 2. **2-Scrub.ipynb**: Cleaning data and verifying integrety. initial feature engineering based on domain expertiese. Assess the degree of multicolliniarity and possible ways of handling it.  
 3. **3-EDA.ipynb**: visualization and exploration of features in relation to the target. 
@@ -40,8 +40,8 @@ For this project, you're going to select a dataset of your choosing and create a
 5. **5-iNterpret.ipynb**: Further analyse the most important features obtained from the best model. Draw conclusion from the model and the predicted features. Build necessary figures to complement recommendation to Telco 
 
 ## final model summary
-![](https://raw.githubusercontent.com/GitHub-ccd/dsc-mod-3-project-v2-1-onl01-dtsc-ft-030220/master/img/RandForest_feature_importance.png)
+##![](https://raw.githubusercontent.com/GitHub-ccd/dsc-mod-3-project-v2-1-onl01-dtsc-ft-030220/master/img/RandForest_feature_importance.png)
 
 ## comparison of churn prediction 
-![](https://raw.githubusercontent.com/GitHub-ccd/dsc-mod-3-project-v2-1-onl01-dtsc-ft-030220/master/img/model_comparison.png)
+##![](https://raw.githubusercontent.com/GitHub-ccd/dsc-mod-3-project-v2-1-onl01-dtsc-ft-030220/master/img/model_comparison.png)
 
