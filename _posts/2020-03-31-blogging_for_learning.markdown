@@ -6,9 +6,6 @@ permalink:  blogging_for_learning
 ---
 
 
-<p>
-<img src="//github.com/GitHub-ccd/dsc-mod-1-project-v2-1-onl01-dtsc-ft-030220/blob/master/DataScientiest.jpg" />
-</p>
 
 Updated post is publised on my blogger. 
 
@@ -18,6 +15,12 @@ It seems the whole world is in lockdown mode as I start my journey to become a d
 
 
 Of all the blogs I reviewed to answer the question……….
+
+
+
+[my blogger](https://findingdata.blogspot.com/2020/03/a-journey-begins-on-lockdown.html)
+
+
 
 Why is blogging helpful to a new Data Science student? 
 
