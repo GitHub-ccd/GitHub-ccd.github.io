@@ -22,7 +22,7 @@ I think it's important to review why you do the things you do at regular interva
 
 There you have it. My very first post!
 
-Updated post is publised on my blogger https://findingdata.blogspot.com/2020/03/a-journey-begins-on-lockdown-update.html. 
+Updated post is publised on my [blogger](https://findingdata.blogspot.com/2020/03/a-journey-begins-on-lockdown-update.html). 
 
 
 
