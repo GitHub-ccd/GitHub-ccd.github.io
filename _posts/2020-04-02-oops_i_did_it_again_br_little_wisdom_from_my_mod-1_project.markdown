@@ -47,3 +47,5 @@ Here is no non-technical presentation
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/AnV2Wh5YAY8" width="560"></iframe>
 </div>
 
+Updated post is publised on my [blogger](https://findingdata.blogspot.com/2020/04/oops-i-did-it-again-little-wisdom-from.html).
+
